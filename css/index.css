@@ -551,9 +551,9 @@ footer.is-mobile {
 }
 #site-title,
 #site-sub-title {
-  color: #eee;
+  color: transparent;
   text-align: center;
-  text-shadow: 0.1rem 0.1rem 0.2rem rgba(0,0,0,0.15);
+  text-shadow: none;
   line-height: 1.5;
 }
 #site-title {
